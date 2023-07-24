@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SeanAndrew your not so typical Redneck Nerd
-- 👀 I’m interested in, Terraform, Proxmox, Python, Ansible, Self Hosting all the things 
-- 🌱 I’m currently learning, FastAPI/Flask, Proxmox TF modules, Go
+- 👀 I’m interested in, Terraform, Proxmox, Python, Ansible, Gitea, WoodpeckerCI, Self Hosting all the things 
+- 🌱 I’m currently ingesting the VMware TF provider, Ansible, FastAPI/Flask, Proxmox TF modules, Go
 - 📫 How to reach me, chapmancomputertech.com or sean@chapmancomputertech.com
 
 <!---
